@@ -45,8 +45,9 @@ button {
 }
 
 img {
-  height: 300px;
-  width: 600px;
+  /* height: 300px; */
+  width: 500px;
+  border-radius: 5px;
 }
 
 /* nav */
@@ -99,6 +100,7 @@ img {
   font-size: 48px;
   font-weight: 800;
   color: #f9faf8;
+  padding-bottom: 20px;
 }
 
 .home__description {
@@ -107,8 +109,12 @@ img {
   color: #e5e7eb;
 }
 
+.home__data {
+  padding-right: 60px;
+}
+
 button {
-  padding: 5px;
+  padding: 8px 15px;
   border-radius: 4px;
   background-color: #3882f6;
   color: #e5e7eb;

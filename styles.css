@@ -145,3 +145,38 @@ button {
   text-align: center;
   /* justify-content: center; */
 }
+
+/* Testimonial Section */
+
+.testimonial__container {
+  background-color: #e5e7eb;
+}
+
+.testimonial__quote {
+  font-size: 33px;
+  font-weight: 300;
+  font-style: italic;
+  padding: 100px 150px 10px;
+}
+
+.writer {
+  text-align: right;
+  padding-bottom: 40px;
+  margin-right: 300px;
+  font-weight: 600;
+}
+
+.footer__container {
+  display: flex;
+  background-color: #3882f6;
+  margin: 70px 120px;
+  border-radius: 5px;
+  padding: 70px;
+}
+
+.footer__button {
+  padding-left: 80px;
+}
+.footer__btn {
+  border: 2px solid #f9faf8;
+}

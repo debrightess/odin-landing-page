@@ -174,9 +174,21 @@ button {
   padding: 70px;
 }
 
+.text__content {
+  padding: 0 80px;
+}
+
 .footer__button {
   padding-left: 80px;
 }
 .footer__btn {
   border: 2px solid #f9faf8;
+}
+.footer__heading {
+  color: #f9faf8;
+  font-size: 18px;
+}
+
+.footer__paragraph {
+  color: #e5e7eb;
 }
